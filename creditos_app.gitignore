@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+backend/*.db
+backend/pdfs/*.pdf
+*.log
+.DS_Store
